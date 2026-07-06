@@ -17,4 +17,4 @@ This project focuses on cleaning, visualizing, and analyzing passenger data from
 ## ⚙️ How to Run
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/snehajha-byte/SCT_DS_2.git
